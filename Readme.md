@@ -1,0 +1,1 @@
+Just a spike how to to capture the meta data from git into a project.
